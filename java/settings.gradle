@@ -1,1 +1,2 @@
 rootProject.name = 'exercism/java'
+include 'nucleotide-count'
