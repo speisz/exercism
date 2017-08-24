@@ -1,2 +1,3 @@
 rootProject.name = 'exercism/java'
 include 'nucleotide-count'
+include 'etl'
